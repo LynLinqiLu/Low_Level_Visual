@@ -3,7 +3,7 @@ import csv
 from athec import misc, saliency
 
 # Define the directories
-base_dir = "C:/Users/linqi/Documents/PTCM/Final_1584/after/athec"
+base_dir = "..."
 resize_folder = os.path.join(base_dir, "image", "resize")
 tf_folder = os.path.join(base_dir, "image", "transform")
 results_folder = os.path.join(base_dir, "results")
