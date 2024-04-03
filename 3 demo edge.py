@@ -3,7 +3,7 @@ import os
 import csv
 from athec import misc, edge
 
-base_dir = "C:/Users/linqi/Documents/PTCM/Final_1584/after/athec"
+base_dir = "..."
 
 img_folder = os.path.join(base_dir, "image", "original")
 resize_folder = os.path.join(base_dir, "image", "resize")
