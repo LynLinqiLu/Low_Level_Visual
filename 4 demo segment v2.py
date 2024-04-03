@@ -3,7 +3,7 @@ import csv
 from athec import misc, segment
 
 # Define the base directory and subdirectories
-base_dir = "C:/Users/linqi/Documents/PTCM/Final_1584/after/athec"
+base_dir = "..."
 resize_folder = os.path.join(base_dir, "image", "resize")
 tf_folder_quickshift = os.path.join(base_dir, "image", "transform", "segment quickshift")
 tf_folder_normalized_cut = os.path.join(base_dir, "image", "transform", "segment normalized cut")
