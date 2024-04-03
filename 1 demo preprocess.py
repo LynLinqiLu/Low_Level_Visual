@@ -3,7 +3,7 @@ import csv
 
 
 # Define the base directory where'athec' folder is located
-base_dir = "C:/Users/linqi/Documents/PTCM/Final_1584/after/athec"
+base_dir = "...."
 
 if base_dir not in sys.path:
     sys.path.append(base_dir)
