@@ -1,6 +1,6 @@
 # Low_Level_Visual
 
-This code provides the approach to iterate image files contain multiple type of images (jpg, etc.) and get low-level features of images and write in a csv file. The function code part are adapted from the following references. 7 categories of low-level features contains color, edge, segment, saliency, sharp, and shape. The environment yml is also attached.
+This code provides the approach to iterate image files contain multiple type of images (jpg, etc.) and get low-level features of images and write in a csv file. The function code part are adapted from the following references. 7 categories of low-level features contains color, edge, segment, saliency, sharp, and shape. The environment yml and requirement.txt is also attached.
 
 
 @article{peng2021athec,
